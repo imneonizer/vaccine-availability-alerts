@@ -20,5 +20,11 @@ INTERVAL=60
 
 **Sample Images**
 
-<img src="Docs/telegram-token.jpeg" height="500px">
-<img src="Docs/telegram-message.jpeg" height="500px">
+<html>
+    <table>
+        <tr>
+            <img src="Docs/telegram-token.jpeg" height="500px" style="padding: 5px">
+            <img src="Docs/telegram-message.jpeg" height="500px" style="padding: 5px">
+        </tr>
+    </table>
+</html>
