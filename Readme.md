@@ -18,13 +18,6 @@ TOKEN=<your-token>
 INTERVAL=60
 ````
 
-**Images**
+**Illustration**
 
-<html>
-    <table>
-        <tr>
-            <img src="Docs/telegram-token.jpeg" height="500px" style="padding: 5px">
-            <img src="Docs/telegram-message.jpeg" height="500px" style="padding: 5px">
-        </tr>
-    </table>
-</html>
+<img src="Docs/telegram.png" height="500px" style="padding: 5px">
