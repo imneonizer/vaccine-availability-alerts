@@ -21,3 +21,8 @@ INTERVAL=60
 **Illustration**
 
 <img src="Docs/telegram.png" height="600px" style="padding: 5px">
+
+----
+
+**Original Idea**  
+https://github.com/kartikey54/VaccineAvailabilityNotifier
