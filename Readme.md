@@ -19,5 +19,6 @@ INTERVAL=60
 ````
 
 **Sample Images**
+
 <img src="Docs/telegram-token.jpeg" height="500px">
 <img src="Docs/telegram-message.jpeg" height="500px">
