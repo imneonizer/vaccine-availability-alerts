@@ -18,7 +18,7 @@ TOKEN=<your-token>
 INTERVAL=60
 ````
 
-**Sample Images**
+**Images**
 
 <html>
     <table>
