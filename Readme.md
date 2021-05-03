@@ -20,7 +20,7 @@ INTERVAL=60
 
 **Illustration**
 
-<img src="Docs/telegram.png" height="600px" style="padding: 5px">
+<img src="Docs/telegram.png" height="600px" width="600px" style="padding: 5px">
 
 ----
 
