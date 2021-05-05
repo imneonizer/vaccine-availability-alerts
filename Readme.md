@@ -24,5 +24,7 @@ INTERVAL=60
 
 ----
 
-**Original Idea**  
+**Resources**  
 https://github.com/kartikey54/VaccineAvailabilityNotifier
+
+https://apisetu.gov.in/public/marketplace/api/cowin/cowin-public-v2
