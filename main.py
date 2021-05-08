@@ -84,8 +84,8 @@ def emojify(d):
 # Event Loop
 while True:
     for pincode in PINCODES:
-        # check for next 7 days
-        for date in DATES(7):
+        # check for next 2 days
+        for date in DATES(2):
             print("[{}][INFO] fetching data for date: {}, PINCODE: {}".format(datetime.datetime.now(), date, pincode))
             # fetch data from cowin portal
             sessions = get_sessions(pincode, date)
