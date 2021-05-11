@@ -9,7 +9,6 @@ from dotenv import load_dotenv
 from fake_useragent import UserAgent
 
 load_dotenv(join(dirname(__file__), '.env'))
-base = datetime.datetime.today()
 
 """
 # search for @PushitBot on Telegram to get token
@@ -45,7 +44,7 @@ EMOJIS = {
 PINCODES = [p.strip() for p in os.environ.get("PINCODES").split(",")]
 MIN_AGE = int(os.environ.get("MIN_AGE_LIMIT"))
 TOKEN = os.environ.get("TOKEN")
-DATES = lambda r: [(base + datetime.timedelta(days=d)).strftime("%d-%m-%Y") for d in range(0, r)]
+DATES = lambda r: [(datetime.datetime.today() + datetime.timedelta(days=d)).strftime("%d-%m-%Y") for d in range(0, r)]
 INTERVAL = int(os.environ.get("INTERVAL"))
 UA = UserAgent()
 
